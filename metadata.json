@@ -1,0 +1,6 @@
+{
+  "name": "CurriFast",
+  "description": "Gerador de Currículos com Inteligência Artificial pronto para produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
